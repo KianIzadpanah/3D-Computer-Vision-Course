@@ -1,4 +1,4 @@
-# 3D Computer Vision Course
+# 3D Computer Vision Course (CE-40344)
 
 ## Practical HW's and Project
 
